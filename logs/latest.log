@@ -1,0 +1,156 @@
+[00:58:19] [Craft Scheduler Thread - 545/INFO]: [Vault] Checking for Updates ... 
+[00:58:20] [Craft Scheduler Thread - 545/INFO]: [Vault] No new version available
+[00:58:20] [Server thread/WARN]: [ChestSort] =================================================
+[00:58:20] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[00:58:20] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[00:58:20] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[00:58:20] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[00:58:20] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[00:58:20] [Server thread/WARN]: [ChestSort] =================================================
+[04:58:19] [Server thread/WARN]: [ChestSort] =================================================
+[04:58:19] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[04:58:19] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[04:58:19] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[04:58:19] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[04:58:19] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[04:58:19] [Server thread/WARN]: [ChestSort] =================================================
+[06:58:18] [Craft Scheduler Thread - 583/INFO]: [Vault] Checking for Updates ... 
+[06:58:19] [Craft Scheduler Thread - 583/INFO]: [Vault] No new version available
+[08:58:19] [Server thread/WARN]: [ChestSort] =================================================
+[08:58:19] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[08:58:19] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[08:58:19] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[08:58:19] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[08:58:19] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[08:58:19] [Server thread/WARN]: [ChestSort] =================================================
+[12:58:18] [Craft Scheduler Thread - 648/INFO]: [Vault] Checking for Updates ... 
+[12:58:19] [Craft Scheduler Thread - 648/INFO]: [Vault] No new version available
+[12:58:19] [Server thread/WARN]: [ChestSort] =================================================
+[12:58:19] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[12:58:19] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[12:58:19] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[12:58:19] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[12:58:19] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[12:58:19] [Server thread/WARN]: [ChestSort] =================================================
+[16:58:20] [Server thread/WARN]: [ChestSort] =================================================
+[16:58:20] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[16:58:20] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[16:58:20] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[16:58:20] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[16:58:20] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[16:58:20] [Server thread/WARN]: [ChestSort] =================================================
+[18:58:18] [Craft Scheduler Thread - 697/INFO]: [Vault] Checking for Updates ... 
+[18:58:19] [Craft Scheduler Thread - 697/INFO]: [Vault] No new version available
+[20:58:20] [Server thread/WARN]: [ChestSort] =================================================
+[20:58:20] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[20:58:20] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[20:58:20] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[20:58:20] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[20:58:20] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[20:58:20] [Server thread/WARN]: [ChestSort] =================================================
+[23:47:46] [Server thread/INFO]: Stopping the server
+[23:47:46] [Server thread/INFO]: Stopping server
+[23:47:46] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.0.113
+[23:47:46] [Server thread/INFO]: [ExoticGarden] Disabling ExoticGarden vDEV - 60 (git 2595001e)
+[23:47:46] [Server thread/INFO]: [Jobs] Disabling Jobs v4.16.0
+[23:47:46] [Server thread/INFO]: [0;33;1m[Jobs] Saved 12 new explorer entries.[m
+[23:47:46] [Server thread/INFO]: [0;33;1m[Jobs] Updated 30 explorer entries.[m
+[23:47:46] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
+[23:47:46] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
+[23:47:46] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled successfully.[m
+[23:47:46] [Server thread/INFO]: [MoreFish] Disabling MoreFish v3.0.2
+[23:47:46] [Server thread/INFO]: [MoreFish] Plugin has been disabled.
+[23:47:46] [Server thread/INFO]: [Slimefun] Disabling Slimefun vRC - 17 (git e8a90f05)
+[23:47:46] [Server thread/INFO]: [Slimefun] Backed up Slimefun data to: 2020-10-20-23-47.zip
+[23:47:46] [Server thread/INFO]: [PlayerParticles] Disabling PlayerParticles v7.15
+[23:47:46] [Server thread/INFO]: [AutoPlant] Disabling AutoPlant v4.2
+[23:47:46] [Server thread/INFO]: The plugin is shutting down...
+[23:47:46] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.143
+[23:47:46] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
+[23:47:46] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
+[23:47:46] [Server thread/INFO]: [WG-GUI] Disabling WG-GUI v1.5.3
+[23:47:46] [Server thread/INFO]: [0;36;22m[0;36;22m[21m[WG-GUI] [0;37;1mDisabling WG-GUI version 1.5.3[m
+[23:47:46] [Server thread/INFO]: [Magic] Disabling Magic v7.10.7-966be29
+[23:47:46] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.3.1
+[23:47:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.0.0
+[23:47:46] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.0.0
+[23:47:46] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.0.0
+[23:47:46] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.18.0.0
+[23:47:46] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v4.9.1-3295
+[23:47:46] [Server thread/INFO]: [MythicMobs] Disabling Mythic Mobs...[0m
+[23:47:46] [Server thread/INFO]: [MythicMobs] All active settings have been saved.[0m
+[23:47:46] [Server thread/INFO]: [MythicMobs] v4.9.1-3295 has been Disabled![0m
+[23:47:46] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[23:47:46] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[23:47:46] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.0.0
+[23:47:46] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v6.2.0
+[23:47:47] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
+[23:47:47] [Server thread/INFO]: [AdvancedChests] Disabling AdvancedChests v7.1
+[23:47:47] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v2.2.0
+[23:47:47] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.43.1
+[23:47:47] [Server thread/INFO]: **************************************
+[23:47:47] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.43.1 is DISABLED
+[23:47:47] [Server thread/INFO]: **************************************
+[23:47:47] [Server thread/INFO]: [ChatControl] Disabling ChatControl v5.9.0
+[23:47:47] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.0.0
+[23:47:47] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[23:47:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-04+98f71a3
+[23:47:47] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:47:47] [Server thread/INFO]: [PetMaster] Disabling PetMaster v1.11.0
+[23:47:47] [Server thread/INFO]: [PetMaster] PetMaster has been disabled.
+[23:47:47] [Server thread/INFO]: [Graves] Disabling Graves v3.6
+[23:47:47] [Server thread/INFO]: [ChestSort] Disabling ChestSort v8.17.3
+[23:47:47] [Server thread/INFO]: [UltraCosmetics] Disabling UltraCosmetics v2.5.9
+[23:47:47] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v1.6.3
+[23:47:47] [Server thread/INFO]: [Farmer] Disabling Farmer v1.0.2
+[23:47:47] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[23:47:47] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib vDEV - 90 (git 9dd4a1cf)
+[23:47:47] [Server thread/INFO]: [Crafting+] Disabling CraftingPlus v1.2.3.0
+[23:47:47] [Server thread/INFO]: [Crafting+] ---------------
+[23:47:47] [Server thread/INFO]: [Crafting+] |  Disabled!  |
+[23:47:47] [Server thread/INFO]: [Crafting+] |  Crafting+  |
+[23:47:47] [Server thread/INFO]: [Crafting+] |      by     |
+[23:47:47] [Server thread/INFO]: [Crafting+] | 00Herobrine |
+[23:47:47] [Server thread/INFO]: [Crafting+] ---------------
+[23:47:47] [Server thread/INFO]: [Climb] Disabling Climb v1.8
+[23:47:47] [Server thread/INFO]: [LangUtils] Disabling LangUtils v1.0-SNAPSHOT
+[23:47:47] [Server thread/INFO]: [Effect Library] Disabling EffectLib v6.2
+[23:47:47] [Server thread/INFO]: [SignEditor] Disabling SignEditor v1.4
+[23:47:47] [Server thread/INFO]: [Drycell] Disabling Drycell v1.0.5
+[23:47:47] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.3.19-Release
+[23:47:48] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown initiated...
+[23:47:48] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown completed.
+[23:47:48] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[23:47:48] [Server thread/INFO]: [ChestCleaner] Disabling ChestCleaner v2.1.0
+[23:47:48] [Server thread/INFO]: [InventoryRollback] Disabling InventoryRollback v1.3.8
+[23:47:48] [Server thread/INFO]: [AdvancedPortals] Disabling AdvancedPortals v0.5.8
+[23:47:48] [Server thread/INFO]: [0;31;1mAdvanced portals are being disabled![m
+[23:47:48] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
+[23:47:48] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[23:47:48] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[23:47:48] [Server thread/INFO]: [WorldManager] Disabling WorldManager v1.0.7
+[23:47:48] [Server thread/INFO]: [SaplingsAutoReplant] Disabling SaplingsAutoReplant v1.3
+[23:47:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.93
+[23:47:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[23:47:48] [Server thread/INFO]: [LuckPerms] Closing storage...
+[23:47:48] [Server thread/INFO]: [LuckPerms] Goodbye!
+[23:47:48] [Server thread/INFO]: [FlyToggle] Disabling FlyToggle v1.7
+[23:47:48] [Server thread/INFO]: [AutoTool] Disabling AutoTool v1.1.1
+[23:47:48] [Server thread/INFO]: [Oh_the_dungeons_youll_go] Disabling Oh_the_dungeons_youll_go v6.5
+[23:47:48] [Server thread/WARN]: [Oh The Dungeons You'll Go] Plugin is disabled
+[23:47:48] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.9.0
+[23:47:48] [Server thread/INFO]: [SmokingPipes] Disabling SmokingPipes v1.6.0
+[23:47:48] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.7
+[23:47:48] [Server thread/INFO]: [InvSort] Disabling InvSort v1.2.0
+[23:47:48] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.52
+[23:47:48] [Server thread/INFO]: Saving players
+[23:47:48] [Server thread/INFO]: Saving worlds
+[23:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
