@@ -1,153 +1,926 @@
-[00:02:19] [Server thread/INFO]: Villager EntityVillager['Villager'/466598, l='ServerLevel[world]', x=133.50, y=53.56, z=89.50] died, message: 'Villager suffocated in a wall'
-[00:05:33] [Server thread/INFO]: Villager EntityVillager['Villager'/472958, l='ServerLevel[world]', x=154.84, y=63.00, z=103.15] died, message: 'Villager suffocated in a wall'
-[00:11:43] [Server thread/INFO]: Villager EntityVillager['Villager'/485832, l='ServerLevel[world]', x=154.84, y=63.00, z=103.15] died, message: 'Villager suffocated in a wall'
-[00:31:36] [Server thread/INFO]: Idkrawr issued server command: //wand
-[00:31:59] [Server thread/INFO]: Idkrawr issued server command: //set air
-[00:32:31] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr glowstone
-[00:34:08] [Server thread/INFO]: Idkrawr issued server command: //set air
-[00:34:20] [Server thread/INFO]: Idkrawr issued server command: //set air
-[01:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[01:12:31] [Server thread/INFO]: Villager EntityVillager['Villager'/639755, l='ServerLevel[world]', x=137.50, y=53.56, z=79.50] died, message: 'Villager suffocated in a wall'
-[01:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[01:51:47] [Server thread/INFO]: Villager EntityVillager['Villager'/271193, l='ServerLevel[world]', x=78.58, y=63.00, z=40.70] died, message: 'Villager was slain by Drowned'
-[01:52:14] [Server thread/INFO]: Villager EntityVillager['Villager'/44, l='ServerLevel[world]', x=105.65, y=64.00, z=9.37] died, message: 'Villager was slain by Drowned'
-[02:14:31] [Server thread/INFO]: Idkrawr issued server command: /ac give Idkrawr example2
-[02:14:57] [Server thread/INFO]: Idkrawr issued server command: /ac give Idkrawr example2
-[02:16:00] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr bread 2222
-[02:16:12] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr bread 2222
-[02:17:55] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr bread 2222
-[02:18:44] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr torch
-[02:33:40] [Server thread/INFO]: Idkrawr was slain by Wither Skeleton
-[02:33:45] [Server thread/INFO]: Idkrawr issued server command: /graves
-[02:33:47] [Server thread/WARN]: Idkrawr moved too quickly! 91.53117092594309,6.0,96.03209805909346
-[02:37:23] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr steak
-[02:37:28] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr steakbbq
-[02:38:43] [Server thread/INFO]: Villager EntityVillager['Villager'/814780, l='ServerLevel[world]', x=147.30, y=48.00, z=85.85] died, message: 'Villager suffocated in a wall'
-[02:39:04] [Server thread/INFO]: Villager EntityVillager['Villager'/815559, l='ServerLevel[world]', x=147.30, y=48.00, z=86.35] died, message: 'Villager suffocated in a wall'
-[02:40:24] [Server thread/INFO]: Idkrawr issued server command: /give Idkrawr torch
-[02:44:00] [Server thread/INFO]: Villager EntityVillager['Villager'/63, l='ServerLevel[world]', x=131.50, y=56.00, z=94.36] died, message: 'Villager was slain by Idkrawr'
-[02:46:25] [Server thread/INFO]: Idkrawr left the game
-[02:57:05] [Server thread/INFO]: Villager EntityVillager['Villager'/864058, l='ServerLevel[world]', x=129.89, y=53.56, z=87.30] died, message: 'Villager suffocated in a wall'
-[03:10:27] [Server thread/INFO]: Stopping the server
-[03:10:27] [Server thread/INFO]: Stopping server
-[03:10:27] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.0.113
-[03:10:27] [Server thread/INFO]: [ExoticGarden] Disabling ExoticGarden vDEV - 60 (git 2595001e)
-[03:10:27] [Server thread/INFO]: [Jobs] Disabling Jobs v4.16.0
-[03:10:27] [Server thread/INFO]: [0;33;1m[Jobs] Saved 19 new explorer entries.[m
-[03:10:27] [Server thread/INFO]: [0;33;1m[Jobs] Updated 11 explorer entries.[m
-[03:10:27] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
-[03:10:27] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
-[03:10:27] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled successfully.[m
-[03:10:27] [Server thread/INFO]: [MoreFish] Disabling MoreFish v3.0.2
-[03:10:27] [Server thread/INFO]: [MoreFish] Plugin has been disabled.
-[03:10:27] [Server thread/INFO]: [Slimefun] Disabling Slimefun vRC - 17 (git e8a90f05)
-[03:10:27] [Server thread/INFO]: [Slimefun] Backed up Slimefun data to: 2020-10-23-03-10.zip
-[03:10:27] [Server thread/INFO]: [PlayerParticles] Disabling PlayerParticles v7.15
-[03:10:27] [Server thread/INFO]: [AutoPlant] Disabling AutoPlant v4.2
-[03:10:27] [Server thread/INFO]: The plugin is shutting down...
-[03:10:27] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.143
-[03:10:27] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (0)
-[03:10:27] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
-[03:10:28] [Server thread/INFO]: [WG-GUI] Disabling WG-GUI v1.5.3
-[03:10:28] [Server thread/INFO]: [0;36;22m[0;36;22m[21m[WG-GUI] [0;37;1mDisabling WG-GUI version 1.5.3[m
-[03:10:28] [Server thread/INFO]: [Magic] Disabling Magic v7.10.7-966be29
-[03:10:28] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.3.1
-[03:10:28] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.0.0
-[03:10:28] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.0.0
-[03:10:28] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.0.0
-[03:10:28] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.18.0.0
-[03:10:28] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v4.9.1-3295
-[03:10:28] [Server thread/INFO]: [MythicMobs] Disabling Mythic Mobs...[0m
-[03:10:28] [Server thread/INFO]: [MythicMobs] All active settings have been saved.[0m
-[03:10:28] [Server thread/INFO]: [MythicMobs] v4.9.1-3295 has been Disabled![0m
-[03:10:28] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
-[03:10:28] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[03:10:28] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.0.0
-[03:10:28] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v6.2.0
-[03:10:28] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
-[03:10:28] [Server thread/INFO]: [AdvancedChests] Disabling AdvancedChests v7.1
-[03:10:28] [Server thread/ERROR]: Error occurred while disabling AdvancedChests v7.1 (Is it up to date?)
-java.lang.ClassCastException: org.bukkit.craftbukkit.v1_16_R2.block.CraftBlockState cannot be cast to org.bukkit.block.Chest
-	at us.lynuxcraft.deadsilenceiv.advancedchests.AdvancedChests.onDisable(AdvancedChests.java:96) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.disablePlugins(CraftServer.java:428) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at net.minecraft.server.v1_16_R2.MinecraftServer.stop(MinecraftServer.java:715) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at net.minecraft.server.v1_16_R2.DedicatedServer.stop(DedicatedServer.java:644) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
-	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:887) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+[22:31:22] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:31:22] [Worker-Main-14/INFO]: Loaded 7 recipes
+[22:31:24] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[22:31:24] [Server thread/INFO]: Loading properties
+[22:31:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-57bbdd8-b8dd5ec (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[22:31:25] [Server thread/INFO]: Debug logging is disabled
+[22:31:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:31:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:31:25] [Server thread/INFO]: Default game type: SURVIVAL
+[22:31:25] [Server thread/INFO]: Generating keypair
+[22:31:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:31:25] [Server thread/INFO]: Using default channel type
+[22:31:29] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:31:32] [Server thread/WARN]: Legacy plugin FarmProtect v1.9.0 does not specify an api-version.
+[22:31:33] [Server thread/INFO]: [Oh The Dungeons You'll Go] MC Version: 1.16.2
+[22:31:33] [Server thread/WARN]: Legacy plugin FlyToggle v1.7 does not specify an api-version.
+[22:31:33] [Server thread/WARN]: Legacy plugin EffectLib v6.2 does not specify an api-version.
+[22:31:33] [Server thread/WARN]: Legacy plugin Climb v1.8 does not specify an api-version.
+[22:31:33] [Server thread/WARN]: Legacy plugin CraftingPlus v1.2.3.0 does not specify an api-version.
+[22:31:33] [Server thread/WARN]: Legacy plugin AdvancedChests v7.1 does not specify an api-version.
+[22:31:34] [Server thread/WARN]: [Slimefun] Loaded class org.apache.http.auth.Credentials from PlugMan v2.1.7 which is not a depend, softdepend or loadbefore of this plugin.
+[22:31:35] [Server thread/WARN]: [MoreFish] Loaded class kotlin.jvm.internal.Intrinsics from SafeArea v1.2 which is not a depend, softdepend or loadbefore of this plugin.
+[22:31:35] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
+[22:31:35] [Server thread/INFO]: [InvSort] Loading InvSort v1.2.0
+[22:31:35] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.7
+[22:31:35] [Server thread/INFO]: [SmokingPipes] Loading SmokingPipes v1.6.0
+[22:31:35] [Server thread/INFO]: [ChestsPlusPlus] Loading ChestsPlusPlus v2.2.1-Release
+[22:31:35] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.9.0
+[22:31:35] [Server thread/INFO]: [Oh_the_dungeons_youll_go] Loading Oh_the_dungeons_youll_go v6.5
+[22:31:35] [Server thread/INFO]: [AutoTool] Loading AutoTool v1.1.1
+[22:31:35] [Server thread/INFO]: [SafeArea] Loading SafeArea v1.2
+[22:31:35] [Server thread/INFO]: [FlyToggle] Loading FlyToggle v1.7
+[22:31:35] [Server thread/INFO]: [NoMobGriefing] Loading NoMobGriefing v2.5.1
+[22:31:35] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.1.93
+[22:31:35] [Server thread/INFO]: [SaplingsAutoReplant] Loading SaplingsAutoReplant v1.3
+[22:31:35] [Server thread/INFO]: [WorldManager] Loading WorldManager v1.0.7
+[22:31:35] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[22:31:35] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[22:31:35] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.16.3) has not yet been tested! Proceed with caution.
+[22:31:36] [Server thread/INFO]: [AdvancedPortals] Loading AdvancedPortals v0.5.8
+[22:31:36] [Server thread/INFO]: [InventoryRollback] Loading InventoryRollback v1.3.8
+[22:31:36] [Server thread/INFO]: [ChestCleaner] Loading ChestCleaner v2.1.0
+[22:31:36] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.3.19-Release
+[22:31:36] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[22:31:36] [Server thread/INFO]: [Drycell] Loading Drycell v1.0.5
+[22:31:36] [Server thread/INFO]: [SignEditor] Loading SignEditor v1.4
+[22:31:36] [Server thread/INFO]: [Effect Library] Loading EffectLib v6.2
+[22:31:36] [Server thread/INFO]: [LangUtils] Loading LangUtils v1.0-SNAPSHOT
+[22:31:36] [Server thread/INFO]: [Climb] Loading Climb v1.8
+[22:31:36] [Server thread/INFO]: [Crafting+] Loading CraftingPlus v1.2.3.0
+[22:31:36] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib vDEV - 90 (git 9dd4a1cf)
+[22:31:36] [Server thread/INFO]: [ServerMinimap] Loading ServerMinimap v0.7.22
+[22:31:36] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[22:31:36] [Server thread/INFO]: [Farmer] Loading Farmer v1.0.2
+[22:31:36] [Server thread/INFO]: [TerraformGenerator] Loading TerraformGenerator v1.6.3
+[22:31:36] [Server thread/INFO]: [UltraCosmetics] Loading UltraCosmetics v2.5.9
+[22:31:36] [Server thread/INFO]: [ChestSort] Loading ChestSort v8.17.3
+[22:31:36] [Server thread/INFO]: [Graves] Loading Graves v3.6
+[22:31:36] [Server thread/INFO]: [PetMaster] Loading PetMaster v1.11.0
+[22:31:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0-beta-04+98f71a3
+[22:31:36] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@42a268f3]
+[22:31:36] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.0.0
+[22:31:36] [Server thread/INFO]: [ChatControl] Loading ChatControl v5.9.0
+[22:31:36] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.43.1
+[22:31:36] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v2.2.0
+[22:31:36] [Server thread/INFO]: [AdvancedChests] Loading AdvancedChests v7.1
+[22:31:36] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v6.2.0
+[22:31:36] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.0.0
+[22:31:36] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[22:31:36] [Server thread/INFO]: [MythicMobs] Loading MythicMobs v4.9.1-3295
+[22:31:36] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.18.0.0
+[22:31:36] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.0.0
+[22:31:36] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.18.0.0
+[22:31:36] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.0.0
+[22:31:36] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.3.1
+[22:31:36] [Server thread/INFO]: [Magic] Loading Magic v7.10.7-966be29
+[22:31:36] [Server thread/INFO]: [Magic] Found WorldGuard 7+
+[22:31:36] [Server thread/INFO]: [Magic] Pre-check for WorldGuard custom flag registration
+[22:31:36] [Server thread/INFO]: [Magic] Registered custom WorldGuard flags: allowed-spells, always-allowed-spells, blocked-spells, always-allowed-spell-categories, allowed-spell-categories, blocked-spell-categories, allowed-wands, always-allowed-wands, blocked-wands, spell-overrides, destructible, reflective, spawn-tags
+[22:31:36] [Server thread/INFO]: [WG-GUI] Loading WG-GUI v1.5.3
+[22:31:36] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.143
+[22:31:36] [Server thread/INFO]: [mcMMO] Registered WG flags successfully!
+[22:31:36] [Server thread/INFO]: [AutoPlant] Loading AutoPlant v4.2
+[22:31:36] [Server thread/INFO]: [PlayerParticles] Loading PlayerParticles v7.15
+[22:31:36] [Server thread/INFO]: [Slimefun] Loading Slimefun vRC - 17 (git e8a90f05)
+[22:31:36] [Server thread/INFO]: [MoreFish] Loading MoreFish v3.0.2
+[22:31:36] [Server thread/INFO]: [Jobs] Loading Jobs v4.16.0
+[22:31:36] [Server thread/INFO]: [ExoticGarden] Loading ExoticGarden vDEV - 60 (git 2595001e)
+[22:31:36] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v7.0.113
+[22:31:36] [Server thread/INFO]: [TreeAssist] Loading main config file: \config.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\default.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\mushroom\mushroom-brown.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\mushroom\mushroom-red.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\mushroom.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\nether\crimson_fungus.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\nether\thick_crimson_fungus.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\nether\thick_warped_fungus.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\nether\warped_fungus.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\nether.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\acacia.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\birch.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\dark_oak.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\jungle.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\oak.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\spruce.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\tall_jungle.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\tall_oak.yml
+[22:31:37] [Server thread/INFO]: [TreeAssist] Loading tree config file: \trees\overworld\tall_spruce.yml
+[22:31:37] [Server thread/INFO]: [Oh_the_dungeons_youll_go] Enabling Oh_the_dungeons_youll_go v6.5
+[22:31:37] [Server thread/INFO]: configdir is plugins\Oh_the_dungeons_youll_go\forge_sandbox\doomlike
+[22:31:37] [Server thread/INFO]: themesdir is plugins\Oh_the_dungeons_youll_go\forge_sandbox\doomlike\themes
+[22:31:37] [Server thread/INFO]: [OTD] Installing files plugins\Oh_the_dungeons_youll_go\forge_sandbox\doomlike\chests.cfg
+[22:31:37] [Server thread/INFO]: Loading chest loot file (chests.cfg)
+[22:31:37] [Server thread/INFO]: Found 1 special chest configs.
+[22:31:37] [Server thread/INFO]: Loading chest loot file (oceanic_chests.cfg)
+[22:31:37] [Server thread/INFO]: Found 12 themes.
+[22:31:37] [Server thread/INFO]: [Oh The Dungeons You'll Go] Update checking...
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/frosted/default.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/frosted/default_spike_1.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/frosted/entrance.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/frosted/hole.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/frosted/top.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/jungle/branch.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/jungle/default.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/jungle/entrance.json
+[22:31:37] [Server thread/INFO]: Reading draylars-battle-towers/jungle/lookout.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/jungle/stairs_wrap.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/jungle/top.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/mushroom/default.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/mushroom/entrance.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/mushroom/top.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/sandy/default.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/sandy/entrance.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/sandy/top.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/sandy/sandcastle_top.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/blacksmith.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/default.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/entrance.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/lake.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/library.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/lookout.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/mineshaft.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/original.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/plains.json
+[22:31:38] [Server thread/INFO]: Reading draylars-battle-towers/stone/top.json
+[22:31:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.1.93
+[22:31:38] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[22:31:38] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv5.1.93[m
+[22:31:38] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[22:31:38] [Server thread/INFO]: [m
+[22:31:38] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:31:38] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:31:39] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:31:39] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:31:39] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 986ms)
+[22:31:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[22:31:39] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:31:39] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:31:39] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.0.0 which is not a depend, softdepend or loadbefore of this plugin.
+[22:31:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:31:39] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:31:39] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:31:39] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:31:39] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v1.6.3
+[22:31:39] [Server thread/INFO]: [TerraformGenerator] Detected version: v1_16_R2[m
+[22:31:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0-beta-04+98f71a3
+[22:31:39] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[22:31:39] [Server thread/WARN]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[22:31:39] [Server thread/WARN]: [WorldEdit] ====================================================
+[22:31:39] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[22:31:39] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[22:31:39] [Server thread/WARN]: [WorldEdit]   
+[22:31:39] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[22:31:39] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[22:31:39] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[22:31:39] [Server thread/WARN]: [WorldEdit]   
+[22:31:39] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[22:31:39] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[22:31:39] [Server thread/WARN]: [WorldEdit]   
+[22:31:39] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[22:31:39] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[22:31:39] [Server thread/WARN]: [WorldEdit]   
+[22:31:39] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[22:31:39] [Server thread/WARN]: [WorldEdit] ====================================================
+[22:31:39] [Server thread/INFO]: Preparing level "world"
+[22:31:39] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:31:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:31:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:31:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:31:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:31:39] [Server thread/INFO]: View Distance: 7
+[22:31:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:31:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:31:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:31:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:31:39] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[22:31:39] [Server thread/INFO]: Max TNT Explosions: 100
+[22:31:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:31:39] [Server thread/INFO]: Mob Spawn Range: 6
+[22:31:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv false
+[22:31:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:31:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:31:39] [Server thread/INFO]: [Oh The Dungeons You'll Go] Found world: world
+[22:31:39] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:31:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:31:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:31:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:31:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:31:39] [Server thread/INFO]: View Distance: 7
+[22:31:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:31:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:31:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:31:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:31:39] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[22:31:39] [Server thread/INFO]: Max TNT Explosions: 100
+[22:31:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:31:39] [Server thread/INFO]: Mob Spawn Range: 6
+[22:31:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv false
+[22:31:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:31:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: [Oh The Dungeons You'll Go] Found world: world_nether
+[22:31:39] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:31:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:31:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:31:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:31:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:31:39] [Server thread/INFO]: View Distance: 7
+[22:31:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:31:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:31:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:31:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:31:39] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[22:31:39] [Server thread/INFO]: Max TNT Explosions: 100
+[22:31:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:31:39] [Server thread/INFO]: Mob Spawn Range: 6
+[22:31:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv false
+[22:31:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:31:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:31:39] [Server thread/INFO]: [Oh The Dungeons You'll Go] Found world: world_the_end
+[22:31:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:31:40] [Server thread/INFO]: Preparing spawn area: 0%
+[22:31:40] [Server thread/INFO]: Preparing spawn area: 0%
+[22:31:40] [Server thread/INFO]: Preparing spawn area: 19%
+[22:31:41] [Server thread/INFO]: Time elapsed: 1476 ms
+[22:31:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:31:41] [Server thread/INFO]: Preparing spawn area: 0%
+[22:31:41] [Server thread/INFO]: Preparing spawn area: 0%
+[22:31:42] [Server thread/INFO]: Time elapsed: 764 ms
+[22:31:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:31:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:31:42] [Server thread/INFO]: Time elapsed: 404 ms
+[22:31:42] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
+[22:31:42] [Server thread/INFO]: [InvSort] Enabling InvSort v1.2.0
+[22:31:42] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.7
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Enabling SmokingPipes v1.6.0
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Plugin Loading
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Thanks for using BYTE Smoking Pipes plugin - www.byte.org.uk!
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating Smoking Pipe custom recipe
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating Golden Pipe custom recipe
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating PuffWeed custom recipeDried Smoking Grass
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating Lumnas Root custom recipe
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating FireWeed custom recipe
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating Badroot custom recipe
+[22:31:42] [Server thread/INFO]: [SmokingPipes] Creating DocWeed custom recipe Dried healing sugar tobacco
+[22:31:42] [Server thread/INFO]: [SmokingPipes] added DocWeed custom recipe 
+[22:31:42] [Server thread/INFO]: [ChestsPlusPlus] Enabling ChestsPlusPlus v2.2.1-Release
+[22:31:42] [Server thread/INFO]: [ChestsPlusPlus] Found API version: v1_16_R2
+[22:31:42] [Server thread/WARN]: [ChestsPlusPlus] A valid server implementation wasn't found for: v1_16_R2
+[22:31:42] [Server thread/WARN]: [ChestsPlusPlus] You may be running an outdated version of the plugin or it needs to be updated to the latest version!
+[22:31:42] [Server thread/INFO]: [ChestsPlusPlus] Chests++ enabled!
+[22:31:42] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.9.0
+[22:31:45] [Thread-16/INFO]: [FarmProtect] About to download a new update: FarmProtect v1.9.0
+[22:31:45] [Thread-16/INFO]: [FarmProtect] Downloading update: 60% of 42920 bytes.
+[22:31:45] [Thread-16/INFO]: [FarmProtect] Downloading update: 70% of 42920 bytes.
+[22:31:45] [Thread-16/INFO]: [FarmProtect] Downloading update: 100% of 42920 bytes.
+[22:31:45] [Thread-16/INFO]: [FarmProtect] Finished updating.
+[22:31:45] [Server thread/INFO]: [FarmProtect] Version 1.9.0 by jacklin213 has been Enabled!
+[22:31:45] [Server thread/INFO]: [AutoTool] Enabling AutoTool v1.1.1
+[22:31:45] [Server thread/INFO]: [SafeArea] Enabling SafeArea v1.2
+[22:31:45] [Server thread/INFO]: [SafeArea] Loading 2 areas...
+[22:31:45] [Server thread/INFO]: [SafeArea] 2 areas loaded.
+[22:31:45] [Server thread/INFO]: [FlyToggle] Enabling FlyToggle v1.7
+[22:31:45] [Server thread/INFO]: [FlyToggle] #> Loading FlyToggle - v1.7
+[22:31:45] [Server thread/INFO]: [FlyToggle] #> Settings up bStats..
+[22:31:45] [Server thread/INFO]: [FlyToggle] #> Loading plugin files...
+[22:31:45] [Server thread/INFO]: [FlyToggle] #> Loading command..
+[22:31:45] [Server thread/INFO]: [FlyToggle] #> Loading events..
+[22:31:45] [Server thread/INFO]: [FlyToggle] #> FlyToggle startup done!
+[22:31:45] [Server thread/INFO]: [NoMobGriefing] Enabling NoMobGriefing v2.5.1
+[22:31:45] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+[22:31:45] [Server thread/INFO]: [SaplingsAutoReplant] Enabling SaplingsAutoReplant v1.3
+[22:31:45] [Server thread/INFO]: [WorldManager] Enabling WorldManager v1.0.7
+[22:32:23] [Server thread/INFO]: [0;37;1m[WorldManager] Plugin successfully enabled[m
+[22:32:23] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[22:32:23] [Server thread/INFO]: 
+[22:32:23] [Server thread/INFO]:     __                      ____                                         _    _____
+[22:32:23] [Server thread/INFO]:    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+[22:32:23] [Server thread/INFO]:   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+[22:32:23] [Server thread/INFO]:  / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+[22:32:23] [Server thread/INFO]: /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+[22:32:23] [Server thread/INFO]:             /____//____/
+[22:32:23] [Server thread/INFO]: 
+[22:32:23] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[22:32:23] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[22:32:23] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[22:32:23] [Server thread/INFO]: [AdvancedPortals] Enabling AdvancedPortals v0.5.8
+[22:32:23] [Server thread/INFO]: [AdvancedPortals] BLOCK_PORTAL_TRAVEL found
+[22:32:23] [Server thread/WARN]: [AdvancedPortals] Advanced bungee features disabled for Advanced Portals as bungee isn't enabled on the server (spigot.yml)
+[22:32:23] [Server thread/INFO]: [0;32;1mAdvanced portals have been successfully enabled![m
+[22:32:23] [Server thread/INFO]: [InventoryRollback] Enabling InventoryRollback v1.3.8
+[22:32:23] [Server thread/WARN]: §c ** WARNING... Plugin may not be compatible with this version of Minecraft. **
+[22:32:23] [Server thread/WARN]: §c ** Tested versions: 1.8.8 to 1.16.1 **
+[22:32:23] [Server thread/WARN]: §c ** Please fully test the plugin before using on your server as features may be broken. **
+[22:32:23] [Server thread/INFO]: Checking for updates...
+[22:32:24] [Server thread/INFO]: §b===============================================================================
+[22:32:24] [Server thread/INFO]: §bAn update to InventoryRollback is available!
+[22:32:24] [Server thread/INFO]: §bDownload at https://www.spigotmc.org/resources/inventoryrollback.48074/
+[22:32:24] [Server thread/INFO]: §b===============================================================================
+[22:32:24] [Server thread/INFO]: [ChestCleaner] Enabling ChestCleaner v2.1.0
+[22:32:24] [Server thread/WARN]: [ChestCleaner] Could not save ChestCleaner_2-1-0_en_GB.properties to plugins\ChestCleaner\ChestCleaner_2-1-0_en_GB.properties because ChestCleaner_2-1-0_en_GB.properties already exists.
+[22:32:24] [Server thread/WARN]: [ChestCleaner] Could not save ChestCleaner_2-1-0_de_DE.properties to plugins\ChestCleaner\ChestCleaner_2-1-0_de_DE.properties because ChestCleaner_2-1-0_de_DE.properties already exists.
+[22:32:24] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.3.19-Release
+[22:32:24] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[22:32:24] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[22:32:24] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[22:32:24] [Server thread/INFO]: Minepacks-Connection-Pool - Starting...
+[22:32:24] [Server thread/INFO]: Minepacks-Connection-Pool - Start completed.
+[22:32:24] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[22:32:24] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[22:32:24] [Server thread/INFO]: [Minepacks] Finished loading item translations for 829 items.
+[22:32:24] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[22:32:24] [Server thread/INFO]: [Drycell] Enabling Drycell v1.0.5
+[22:32:24] [Server thread/INFO]: Drycell has initiated!
+[22:32:24] [Server thread/INFO]: [SignEditor] Enabling SignEditor v1.4
+[22:32:24] [Server thread/INFO]: [Effect Library] Enabling EffectLib v6.2
+[22:32:24] [Server thread/INFO]: [LangUtils] Enabling LangUtils v1.0-SNAPSHOT
+[22:32:24] [Server thread/INFO]: [Climb] Enabling Climb v1.8
+[22:32:24] [Server thread/INFO]: [Crafting+] Enabling CraftingPlus v1.2.3.0
+[22:32:24] [Server thread/INFO]: [Crafting+] ---------------
+[22:32:24] [Server thread/INFO]: [Crafting+] |   Enabled   |
+[22:32:24] [Server thread/INFO]: [Crafting+] |  Crafting+  |
+[22:32:24] [Server thread/INFO]: [Crafting+] |      by     |
+[22:32:24] [Server thread/INFO]: [Crafting+] | 00Herobrine |
+[22:32:24] [Server thread/INFO]: [Crafting+] ---------------
+[22:32:24] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib vDEV - 90 (git 9dd4a1cf)
+[22:32:24] [Server thread/WARN]:  
+[22:32:24] [Server thread/WARN]: ################## - DEVELOPMENT BUILD - ##################
+[22:32:24] [Server thread/WARN]: You appear to be using an experimental build of CS-CoreLib
+[22:32:24] [Server thread/WARN]: Version DEV - 90 (git 9dd4a1cf)
+[22:32:24] [Server thread/WARN]:  
+[22:32:24] [Server thread/WARN]: Auto-Updates have been disabled. Use at your own risk!
+[22:32:24] [Server thread/WARN]:  
+[22:32:24] [Server thread/INFO]: [ServerMinimap] Enabling ServerMinimap v0.7.22
+[22:32:24] [Server thread/INFO]: [ServerMinimap] Created Minimap with ID 0. Use /give <name> MAP 1 0 to get the map as item. (Vanilla command)
+[22:32:24] [Server thread/INFO]: [ServerMinimap] Alternative command: /minimap (Plugin command)
+[22:32:24] [Server thread/INFO]: [Farmer] Enabling Farmer v1.0.2
+[22:32:24] [Server thread/INFO]: [UltraCosmetics] Enabling UltraCosmetics v2.5.9
+[22:32:24] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: -------------------------------------------------------------------
+[22:32:24] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: UltraCosmetics v2.5.9 is loading... (server: 1.16.2)
+[22:32:24] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Thanks for downloading it!
+[22:32:24] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Plugin by iSach.
+[22:32:24] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Link: http://bit.ly/UltraCosmetics
+[22:32:25] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Initializing module v1_16_R2
+[22:32:25] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: bStats enabled!
+[22:32:25] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Module initialized
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: 
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Morphs require Lib's Disguises!
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: 
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Morphs disabled.
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: 
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: 
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: Hooked into Vault for economy: Essentials Economy
+[22:32:26] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: 
+[22:32:26] [Thread-17/INFO]: [Minepacks] Start downloading update: 2.3.20-release
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 10% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 20% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 30% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 40% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 50% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 60% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 70% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 80% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 90% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Downloading update: 100% of 1.32 MiB
+[22:32:26] [Thread-17/INFO]: [Minepacks] Finished updating.
+[22:32:27] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: UltraCosmetics successfully finished loading and is now enabled!
+[22:32:27] [Server thread/INFO]: 11/04/2020 - UltraCosmetics [INFO]: -------------------------------------------------------------------
+[22:32:27] [Server thread/INFO]: [ChestSort] Enabling ChestSort v8.17.3
+[22:32:27] [Server thread/INFO]: [ChestSort] Succesfully hooked into Minepacks
+[22:32:27] [Server thread/INFO]: [ChestSort] Use permissions: true
+[22:32:27] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[22:32:27] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[22:32:27] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[22:32:27] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[22:32:27] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[22:32:27] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[22:32:27] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[22:32:27] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[22:32:27] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[22:32:27] [Server thread/INFO]: [ChestSort] Check for updates: true
+[22:32:27] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (14400 seconds)
+[22:32:27] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[22:32:27] [Server thread/INFO]: [Graves] Enabling Graves v3.6
+[22:32:27] [Server thread/INFO]: [Graves] Loaded data file!
+[22:32:27] [Server thread/INFO]: [Graves] Waiting 2 seconds before loading saved graves.
+[22:32:27] [Server thread/INFO]: [PetMaster] Enabling PetMaster v1.11.0
+[22:32:27] [Server thread/INFO]: [PetMaster] Registering listeners...
+[22:32:27] [Server thread/INFO]: [PetMaster] Backing up and loading configuration files...
+[22:32:27] [Thread-19/INFO]: [PetMaster] Checking for plugin update...
+[22:32:27] [Server thread/INFO]: [PetMaster] Plugin enabled and ready to run! Took 19ms.
+[22:32:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.0.0
+[22:32:27] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:32:27] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[22:32:27] [Server thread/INFO]: No kits found to migrate.
+[22:32:27] [Server thread/INFO]: Loaded 25515 items from items.json.
+[22:32:27] [Server thread/INFO]: Using locale en_US
+[22:32:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:32:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:32:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:32:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[22:32:27] [Server thread/INFO]: [ChatControl] Enabling ChatControl v5.9.0
+[22:32:27] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mEssentials[m
+[22:32:27] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mProtocolLib [0;37;22m(Packet Features)[m
+[22:32:27] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mVault[m
+[22:32:27] [Server thread/INFO]: [0;36;22mStarting [0;37;1mchecker listener [0;36;22mwith NORMAL priority[m
+[22:32:27] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.43.1
+[22:32:27] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.43.1 displaycancel=true
+[22:32:27] [Server thread/INFO]: **************************************
+[22:32:27] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.43.1 Loading...
+[22:32:27] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.43.1 plugins\SinglePlayerSleep\config.yml
+[22:32:27] [Server thread/INFO]: Checking for updates...[m
+[22:32:28] [Thread-19/WARN]: [PetMaster] Update available: v1.11.1! Download at spigotmc.org/resources/pet-master.15904
+[22:32:28] [Server thread/INFO]: SinglePlayerSleep New version available![m
+[22:32:28] [Server thread/INFO]: https://spigotmc.org/resources/68139[m
+[22:32:28] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.43.1 plugins\SinglePlayerSleep\permissions.yml
+[22:32:28] [Server thread/INFO]: **************************************
+[22:32:28] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.43.1 is ENABLED
+[22:32:28] [Server thread/INFO]: **************************************
+[22:32:28] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.43.1 This server is running CraftBukkit version git-Spigot-57bbdd8-b8dd5ec (MC: 1.16.3) (Implementing API version 1.16.3-R0.1-SNAPSHOT)
+[22:32:28] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.43.1 vardebug=false debug=false in plugins\SinglePlayerSleep/config.yml
+[22:32:28] [Server thread/INFO]: SinglePlayerSleep 1.13_2.13.43.1 jarfilename=C:\Users\Hoku\Documents\PublicGitSite\MC\plugins\SinglePlayerSleep-1.13_2.13.43.1.jar
+[22:32:28] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v2.2.0
+[22:32:28] [Server thread/INFO]: [CommandSigns] Plugin vault detected
+[22:32:28] [Server thread/INFO]: [CommandSigns] Vault economy [Essentials Economy] linked with command signs !
+[22:32:28] [Server thread/WARN]: [CommandSigns] Some command signs were not loaded because their world is not loaded: 5
+[22:32:28] [Server thread/INFO]: [CommandSigns] If this plugin is useful to you, you can make a donation at: https://www.paypal.me/nokorbis
+[22:32:28] [Server thread/INFO]: [AdvancedChests] Enabling AdvancedChests v7.1
+[22:32:28] [Server thread/INFO]: [0;30;1m[[0;33;1m[21mAdvanced[0;33;22m[21mChests[0;30;1m] [0;37;22mThere is a [0;33;1m[21mNEW VERSION [0;37;22mof AdvancedChests please download it at[0;33;22m: [0;37;22mhttps://www.spigotmc.org/resources/79061[m
+[22:32:28] [Server thread/INFO]: [0;30;1m[[0;33;1m[21mAdvanced[0;33;22m[21mChests[0;30;1m] [0;37;22mHolographicDisplays was not found, the holograms were disabled![m
+[22:32:33] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v6.2.0
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Loaded 60 achievements in 50 categories.
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] 1 disabled category: [AdvancementsCompleted]
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Backing up database file...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
+[22:32:34] [Thread-21/INFO]: [AdvancedAchievements] Checking for plugin update...
+[22:32:34] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 702ms.
+[22:32:34] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.0.0
+[22:32:34] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:32:34] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:32:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:32:34] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:32:34] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v4.9.1-3295
+[22:32:34] [Thread-21/WARN]: [AdvancedAchievements] Update available: v6.7.0! Download at spigotmc.org/resources/advanced-achievements.6239
+[22:32:34] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Spigot (MC: 1.16.3)...[0m
+[22:32:34] [Server thread/INFO]: [MythicMobs] The server is running Spigot; disabled PaperSpigot exclusive functionality[0m
+[22:32:34] [Server thread/WARN]: [MythicMobs] §6--====|||| §c§lMythicMobs §6||||====--[0m[0m
+[22:32:34] [Server thread/WARN]: [MythicMobs] This version of MythicMobs is not fully compatible with your version of Bukkit.[0m[0m
+[22:32:34] [Server thread/WARN]: [MythicMobs] Some features may be limited or disabled until you use a compatible version.[0m[0m
+[22:32:34] [Server thread/WARN]: [MythicMobs] Loaded class de.slikey.effectlib.EffectLib from EffectLib v6.2 which is not a depend, softdepend or loadbefore of this plugin.
+[22:32:34] [Server thread/INFO]: [MythicMobs] MythicMobs EffectLib Support has been enabled![0m
+[22:32:34] [Server thread/WARN]: [MythicMobs] Loaded class com.gmail.nossr50.mcMMO from mcMMO v2.1.143 which is not a depend, softdepend or loadbefore of this plugin.
+[22:32:34] [Server thread/INFO]: [MythicMobs] MythicMobs mcMMO Support has been enabled![0m
+[22:32:34] [Server thread/INFO]: [MythicMobs] Loaded ProtocolLib packet handlers[0m
+[22:32:34] [Server thread/WARN]: [MythicMobs] Loaded class com.comphenix.protocol.PacketType from ProtocolLib v4.5.1 which is not a depend, softdepend or loadbefore of this plugin.
+[22:32:34] [Server thread/INFO]: [LumineUtils] (io.lumine.xikage.mythicmobs.utils.) is bound to plugin MythicMobs - io.lumine.xikage.mythicmobs.MythicMobs
+[22:32:34] [Server thread/INFO]: [MythicMobs] MythicMobs ProtocolLib Support has been enabled![0m
+[22:32:34] [Server thread/INFO]: [MythicMobs] MythicMobs Vault Support has been enabled![0m
+[22:32:34] [Server thread/INFO]: [MythicMobs] MythicMobs WorldGuard Support has been enabled![0m
+[22:32:34] [Server thread/INFO]: [MythicMobs] Loading Mob Registry...[0m
+[22:32:34] [Server thread/INFO]: [MythicMobs] Loading Mob Registry...[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [36mLOADED[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [36mLOADED[0m
+[22:32:35] [Server thread/WARN]: [MythicMobs] ?[33m Config Error for Item '[4mSkeletonKingSword[0m[33m' in 'ExampleItems.yml': [37mAttributes are configured incorrectly.[0m[0m
+[22:32:35] [Server thread/WARN]: [MythicMobs] ?[33m Config Error for Item '[4mKingsCrown[0m[33m' in 'ExampleItems.yml': [37mAttributes are configured incorrectly.[0m[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 5 mobs.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 skills.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob spawners.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics[0m
+[22:32:35] [Server thread/INFO]: [MythicMobs] [32m? MythicMobs v4.9.1 (build 3295) has been successfully loaded![0m[0m
+[22:32:35] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.18.0.0
+[22:32:35] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[22:32:35] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[22:32:35] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.0.0
+[22:32:35] [Server thread/ERROR]: No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[22:32:35] [Server thread/ERROR]: Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (The system cannot find the file specified)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_261]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_261]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_261]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:162) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:33) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugin(CraftServer.java:494) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at org.bukkit.craftbukkit.v1_16_R2.CraftServer.enablePlugins(CraftServer.java:408) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at net.minecraft.server.v1_16_R2.DedicatedServer.init(DedicatedServer.java:216) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
+	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:808) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.3.jar:git-Spigot-57bbdd8-b8dd5ec]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
-[03:10:28] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v2.2.0
-[03:10:28] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.43.1
-[03:10:28] [Server thread/INFO]: **************************************
-[03:10:28] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.43.1 is DISABLED
-[03:10:28] [Server thread/INFO]: **************************************
-[03:10:28] [Server thread/INFO]: [ChatControl] Disabling ChatControl v5.9.0
-[03:10:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.0.0
-[03:10:28] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[03:10:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-04+98f71a3
-[03:10:28] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:10:28] [Server thread/INFO]: [PetMaster] Disabling PetMaster v1.11.0
-[03:10:28] [Server thread/INFO]: [PetMaster] PetMaster has been disabled.
-[03:10:28] [Server thread/INFO]: [Graves] Disabling Graves v3.6
-[03:10:28] [Server thread/INFO]: [ChestSort] Disabling ChestSort v8.17.3
-[03:10:28] [Server thread/INFO]: [UltraCosmetics] Disabling UltraCosmetics v2.5.9
-[03:10:28] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v1.6.3
-[03:10:28] [Server thread/INFO]: [Farmer] Disabling Farmer v1.0.2
-[03:10:28] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[03:10:28] [Server thread/INFO]: [ServerMinimap] Disabling ServerMinimap v0.7.22
-[03:10:28] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib vDEV - 90 (git 9dd4a1cf)
-[03:10:28] [Server thread/INFO]: [Crafting+] Disabling CraftingPlus v1.2.3.0
-[03:10:28] [Server thread/INFO]: [Crafting+] ---------------
-[03:10:28] [Server thread/INFO]: [Crafting+] |  Disabled!  |
-[03:10:28] [Server thread/INFO]: [Crafting+] |  Crafting+  |
-[03:10:28] [Server thread/INFO]: [Crafting+] |      by     |
-[03:10:28] [Server thread/INFO]: [Crafting+] | 00Herobrine |
-[03:10:28] [Server thread/INFO]: [Crafting+] ---------------
-[03:10:28] [Server thread/INFO]: [Climb] Disabling Climb v1.8
-[03:10:28] [Server thread/INFO]: [LangUtils] Disabling LangUtils v1.0-SNAPSHOT
-[03:10:28] [Server thread/INFO]: [Effect Library] Disabling EffectLib v6.2
-[03:10:28] [Server thread/INFO]: [SignEditor] Disabling SignEditor v1.4
-[03:10:28] [Server thread/INFO]: [Drycell] Disabling Drycell v1.0.5
-[03:10:28] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.3.19-Release
-[03:10:29] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown initiated...
-[03:10:29] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown completed.
-[03:10:29] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
-[03:10:29] [Server thread/INFO]: [ChestCleaner] Disabling ChestCleaner v2.1.0
-[03:10:29] [Server thread/INFO]: [InventoryRollback] Disabling InventoryRollback v1.3.8
-[03:10:29] [Server thread/INFO]: [AdvancedPortals] Disabling AdvancedPortals v0.5.8
-[03:10:29] [Server thread/INFO]: [0;31;1mAdvanced portals are being disabled![m
-[03:10:29] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
-[03:10:29] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
-[03:10:29] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
-[03:10:29] [Server thread/INFO]: [WorldManager] Disabling WorldManager v1.0.7
-[03:10:29] [Server thread/INFO]: [SaplingsAutoReplant] Disabling SaplingsAutoReplant v1.3
-[03:10:29] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.93
-[03:10:29] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:10:29] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:10:30] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:10:30] [Server thread/INFO]: [NoMobGriefing] Disabling NoMobGriefing v2.5.1
-[03:10:30] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been disabled.***
-[03:10:30] [Server thread/INFO]: [FlyToggle] Disabling FlyToggle v1.7
-[03:10:30] [Server thread/INFO]: [SafeArea] Disabling SafeArea v1.2
-[03:10:30] [Server thread/INFO]: [AutoTool] Disabling AutoTool v1.1.1
-[03:10:30] [Server thread/INFO]: [Oh_the_dungeons_youll_go] Disabling Oh_the_dungeons_youll_go v6.5
-[03:10:30] [Server thread/WARN]: [Oh The Dungeons You'll Go] Plugin is disabled
-[03:10:30] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.9.0
-[03:10:30] [Server thread/INFO]: [SmokingPipes] Disabling SmokingPipes v1.6.0
-[03:10:30] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.7
-[03:10:30] [Server thread/INFO]: [InvSort] Disabling InvSort v1.2.0
-[03:10:30] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.52
-[03:10:30] [Server thread/INFO]: Saving players
-[03:10:30] [Server thread/INFO]: Saving worlds
-[03:10:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:10:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:10:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:32:35] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[22:32:35] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[22:32:35] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.18.0.0
+[22:32:35] [Server thread/INFO]: [EssentialsAntiBuild] Starting Metrics. Opt-out using the global bStats config.
+[22:32:35] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.0.0
+[22:32:35] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:32:35] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.3.1
+[22:32:36] [Server thread/INFO]: [Magic] Enabling Magic v7.10.7-966be29
+[22:32:36] [Server thread/INFO]: [Magic] EffectLib initialized
+[22:32:36] [Server thread/INFO]: [Magic] Wand crafting is enabled
+[22:32:36] [Server thread/INFO]: [Magic] Skin-based spell icons disabled
+[22:32:36] [Server thread/INFO]: [Magic] Vault found, 'currency' cost types available
+[22:32:36] [Server thread/INFO]: [Magic] Loaded 0 attributes
+[22:32:36] [Server thread/INFO]: [Magic] Registered attributes: [health_max, bowpull, damage, damage_dealt, level, location_x, health, location_y, bowpower, moon, mana, location_z, xp, mana_max, time]
+[22:32:36] [Server thread/INFO]: [Magic] Registered currencies: item,mana,xp,health,currency,sp,levels,hunger
+[22:32:36] [Server thread/INFO]: [Magic] Loaded 7 effect lists
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 400 items
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 130 wands
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 451 spells
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 6 classes
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 1 classes
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 12 progression paths
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 24 mob templates
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 4 automata templates
+[22:32:37] [Server thread/INFO]: [Magic] Loaded 12 crafting recipes
+[22:32:37] [Server thread/INFO]: [Magic] LibsDisguises not found, magic mob disguises will not be available
+[22:32:37] [Server thread/INFO]: [Magic] MobArena not found
+[22:32:37] [Server thread/INFO]: [Magic] LogBlock not found
+[22:32:37] [Server thread/INFO]: [Magic] Integrating with Essentials for vanish detection
+[22:32:37] [Server thread/INFO]: [Magic] Integrating with Essentials for Recall warps
+[22:32:37] [Server thread/INFO]: [Magic] Factions not found
+[22:32:37] [Server thread/INFO]: [Magic] WorldGuard found, will respect build permissions for construction spells
+[22:32:37] [Server thread/INFO]: [Magic] Towny not found, region protection and pvp checks will not be used.
+[22:32:37] [Server thread/INFO]: [Magic] Lockette nor LockettePro found, will not integrate.
+[22:32:37] [Server thread/INFO]: [Magic] GriefPrevention not found, claim protection will not be used.
+[22:32:37] [Server thread/INFO]: [Magic] NoCheatPlus not found, will not integrate.
+[22:32:37] [Server thread/INFO]: [Magic] dynmap not found, not integrating.
+[22:32:37] [Server thread/INFO]: [Magic] Citizens not found, Magic trait unavailable.
+[22:32:37] [Server thread/INFO]: [Magic] LightAPI not found, Light action will not work
+[22:32:37] [Server thread/INFO]: [Magic] Activated BStats
+[22:32:37] [Server thread/INFO]: Magic checking resource pack for updates: [0;37;22mhttps://s3-us-west-2.amazonaws.com/elmakers/Magic/Magic-RP-1.16.zip[m
+[22:32:37] [Server thread/INFO]: [WG-GUI] Enabling WG-GUI v1.5.3
+[22:32:37] [Server thread/INFO]: [0;36;22m[0;36;22m[21m[WG-GUI] [0;37;1mLoading WG-GUI version 1.5.3[m
+[22:32:38] [Server thread/INFO]: [0;36;22m[0;36;22m[21m[WG-GUI] [0;37;1mReady to use![m
+[22:32:38] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.143
+[22:32:38] [Server thread/INFO]: [mcMMO] Platform String: 1.16.3-R0.1-SNAPSHOT
+[22:32:38] [Server thread/INFO]: [mcMMO] Minecraft version determined to be - 1.16.3
+[22:32:38] [Server thread/INFO]: [mcMMO] Loading compatibility layers...
+[22:32:38] [Server thread/INFO]: [mcMMO] Finished loading compatibility layers.
+[22:32:38] [Server thread/INFO]: [mcMMO] Enabling Acrobatics Skills
+[22:32:38] [Server thread/INFO]: [mcMMO] Registered subskill: Roll
+[22:32:38] [Server thread/INFO]: [mcMMO] 0 entries in mcMMO World Blacklist
+[22:32:38] [Server thread/INFO]: [AutoPlant] Enabling AutoPlant v4.2
+[22:32:38] [Server thread/INFO]: The plugin has started...
+[22:32:38] [Server thread/INFO]: [PlayerParticles] Enabling PlayerParticles v7.15
+[22:32:39] [Server thread/INFO]: [PlayerParticles] Data handler connected using SQLite.
+[22:32:39] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 17 (git e8a90f05)
+[22:32:39] [Server thread/INFO]: [Slimefun] CS-CoreLib was detected!
+[22:32:39] [Server thread/WARN]: [Slimefun] ====================================================
+[22:32:39] [Server thread/WARN]: [Slimefun]  Slimefun works better if you use Paper 
+[22:32:39] [Server thread/WARN]: [Slimefun]  as your server software. 
+[22:32:39] [Server thread/WARN]: [Slimefun] ====================================================
+[22:32:39] [Server thread/INFO]: [Slimefun] Creating directories...
+[22:32:39] [Server thread/INFO]: [Slimefun] Loading language files...
+[22:32:39] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[22:32:39] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, ar, tr, th, tl
+[22:32:39] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[22:32:39] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[22:32:39] [Server thread/INFO]: [Slimefun] Loading Tags...
+[22:32:39] [Server thread/INFO]: [Slimefun] Loading items...
+[22:32:40] [Server thread/INFO]: [Slimefun] Loading researches...
+[22:32:40] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[22:32:40] [Server thread/INFO]: [Slimefun] Registering listeners...
+[22:32:40] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[22:32:40] [Server thread/INFO]: [Slimefun] Hooked into Plugin: WorldEdit
+[22:32:40] [Server thread/INFO]: [Slimefun] Hooked into Plugin: mcMMO
+[22:32:40] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 753.0ms
+[22:32:40] [Server thread/INFO]: [MoreFish] Enabling MoreFish v3.0.2
+[22:32:40] [Server thread/INFO]: [MoreFish] Loaded 5 rarities and 25 fish types
+[22:32:40] [Server thread/WARN]: [MoreFish] Loaded class co.aikar.locales.MessageKeyProvider from AutoTool v1.1.1 which is not a depend, softdepend or loadbefore of this plugin.
+[22:32:40] [Server thread/INFO]: [ACF] Minecraft Version: 1.16
+[22:32:40] [Server thread/INFO]: [MoreFish] Plugin has been enabled.
+[22:32:40] [Server thread/INFO]: [Jobs] Enabling Jobs v4.16.0
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 75 protected blocks timers![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1098 custom item names![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 71 custom entity names![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 2 custom MythicMobs names![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 38 custom enchant names![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Woodcutter[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Miner[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Builder[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Digger[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Farmer[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Hunter[m
+[22:32:41] [Server thread/WARN]: [Jobs] Job Hunter has an invalid Kill type property: PIG_ZOMBIE!
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Explorer[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Crafter[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Fisherman[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Weaponsmith[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Brewer[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Enchanter[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 furnaces and 1 brewing stands for reassigning.[m
+[22:32:41] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[22:32:41] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 7 players data in 0.01[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] [0;33;22mmcMMO2.1.143 was found - Enabling capabilities.[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Registered McMMO 2.x listener[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] MythicMobs detected.[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] [0;33;22mMythicMobs4 was found - Enabling capabilities.[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 17 block protection entries. 7ms[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (580)[m
+[22:32:41] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[22:32:42] [Server thread/INFO]: [ExoticGarden] Enabling ExoticGarden vDEV - 60 (git 2595001e)
+[22:32:42] [Server thread/WARN]: [ExoticGarden] ====================================================
+[22:32:42] [Server thread/WARN]: [ExoticGarden]  ExoticGarden works better if you use Paper 
+[22:32:42] [Server thread/WARN]: [ExoticGarden]  as your server software. 
+[22:32:42] [Server thread/WARN]: [ExoticGarden] ====================================================
+[22:32:42] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.0.113
+[22:32:42] [Server thread/INFO]: [TreeAssist] debugging: off
+[22:32:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:32:42] [Server thread/INFO]: Done (63.077s)! For help, type "help"
+[22:32:42] [Server thread/INFO]: [CS-CoreLib2 - Protection] Loading Protection Modules...
+[22:32:42] [Server thread/INFO]: [CS-CoreLib2 - Protection] This may happen more than once.
+[22:32:42] [Server thread/WARN]: [CS-CoreLib] Loaded class com.sk89q.worldguard.bukkit.WorldGuardPlugin from WorldGuard v7.0.3;5407315 which is not a depend, softdepend or loadbefore of this plugin.
+[22:32:42] [Server thread/INFO]: [CS-CoreLib2 - Protection] Loaded Protection Module "WorldGuard v7.0.3;5407315"
+[22:32:42] [Craft Scheduler Thread - 0/INFO]: [0;30;1m[21m? [0;31;1m[21mW[0;37;22morld[0;31;1m[21mM[0;37;22manager [0;30;1m? [0;37;1mThere is a new version available: 1.0.9.[m
+[22:32:47] [Craft Scheduler Thread - 7/INFO]: [mcMMO] Cleaned backup files. Deleted 6 of 16 files.
+[22:32:47] [Server thread/INFO]: [CS-CoreLib2 - Protection] Loading Protection Modules...
+[22:32:47] [Server thread/INFO]: [CS-CoreLib2 - Protection] This may happen more than once.
+[22:32:47] [Server thread/INFO]: [CS-CoreLib2 - Protection] Loaded Protection Module "WorldGuard v7.0.3;5407315"
+[22:32:48] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[22:32:48] [Server thread/INFO]: [Slimefun] Found 892 Recipes!
+[22:32:48] [Server thread/INFO]: [m
+[22:32:48] [Server thread/INFO]: [0;32;1m######################### - Slimefun vRC - 17 (git e8a90f05) - #########################[m
+[22:32:48] [Server thread/INFO]: [m
+[22:32:48] [Server thread/INFO]: [0;32;1mSuccessfully loaded 782 Items and 248 Researches[m
+[22:32:48] [Server thread/INFO]: [0;32;1m( 526 Items from Slimefun, 256 Items from 1 Addons )[m
+[22:32:48] [Server thread/INFO]: [m
+[22:32:48] [Server thread/INFO]: [0;32;1mSlimefun is an Open-Source project that is kept alive by a large community.[m
+[22:32:48] [Server thread/INFO]: [0;32;1mConsider helping us maintain this project by contributing on GitHub![m
+[22:32:48] [Server thread/INFO]: [m
+[22:32:48] [Server thread/INFO]: [0;32;1m - Source Code:  https://github.com/Slimefun/Slimefun4[m
+[22:32:48] [Server thread/INFO]: [0;32;1m - Wiki:         https://github.com/Slimefun/Slimefun4/wiki[m
+[22:32:48] [Server thread/INFO]: [0;32;1m - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons[m
+[22:32:48] [Server thread/INFO]: [0;32;1m - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues[m
+[22:32:48] [Server thread/INFO]: [0;32;1m - Discord:      https://discord.gg/slimefun[m
+[22:32:48] [Server thread/INFO]: [m
+[22:32:48] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[22:32:48] [Server thread/INFO]: [Slimefun] This may take a long time...
+[22:32:48] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ 47, 71, -8 (COCONUT_SAPLING -> COCONUT)
+[22:32:48] [Server thread/INFO]: [Slimefun] Ignoring duplicate block @ 134, 72, 74 (COCONUT_SAPLING -> COCONUT)
+[22:32:48] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 92ms)
+[22:32:48] [Server thread/INFO]: [Slimefun] Loaded a total of 9,121 Blocks for World "world"
+[22:32:48] [Server thread/INFO]: [Slimefun] Avg: 0.01ms/Block
+[22:32:48] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[22:32:48] [Server thread/INFO]: [Slimefun] This may take a long time...
+[22:32:48] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[22:32:48] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[22:32:48] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[22:32:48] [Server thread/INFO]: [Slimefun] This may take a long time...
+[22:32:48] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[22:32:48] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[22:32:48] [Craft Scheduler Thread - 9/INFO]: [PlayerParticles] An update (v7.16) is available! You are running v7.15
+[22:32:48] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #17
+[22:32:48] [Server thread/INFO]: [Slimefun] with a total of 16/16 chart(s)!
+[22:32:48] [Server thread/INFO]: [Slimefun] Metrics build #17 started.
+[22:32:48] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[22:32:48] [Server thread/WARN]: [Oh_the_dungeons_youll_go] ====================================================
+[22:32:48] [Server thread/WARN]: [Oh_the_dungeons_youll_go]  Oh_the_dungeons_youll_go works better if you use Paper 
+[22:32:48] [Server thread/WARN]: [Oh_the_dungeons_youll_go]  as your server software. 
+[22:32:48] [Server thread/WARN]: [Oh_the_dungeons_youll_go] ====================================================
+[22:32:48] [Updater Thread/INFO]: [Slimefun] Slimefun is already up to date!
+[22:32:48] [Updater Thread/INFO]: [ExoticGarden] ExoticGarden is already up to date!
+[22:32:48] [Server thread/INFO]: [ChestsPlusPlus] Chests++ Successfully Loaded Config and Recipes
+[22:32:49] [Server thread/INFO]: [0;32;1mResource pack has not changed, using hash veCrhDuJYXCuo5p5hrERawFWD18= (1602692372000 <= 1602692372000)[m
+[22:32:49] [Craft Scheduler Thread - 6/INFO]: [Vault] Checking for Updates ... 
+[22:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6301ms or 126 ticks behind
+[22:32:49] [Craft Scheduler Thread - 4/INFO]: [0;33;22m[ChestCleaner] [0;32;1mA new update is available at:[0;36;1m https://www.spigotmc.org/resources/40313/updates .[m
+[22:32:49] [Server thread/INFO]: [ChestsPlusPlus] Plugin is up to date! Thank you for supporting Chests++!
+[22:32:49] [Craft Scheduler Thread - 2/INFO]: [ChatControl] [0;32;22mA new version of [0;36;22mChatControl[0;32;22m is available.\n[0;32;22mCurrent version: [0;37;1m5.9.0[0;32;22m; New version: [0;37;1m5.9.1\n[0;32;22mYou can disable this notification in the config.[m
+[22:32:49] [Craft Scheduler Thread - 6/INFO]: [Vault] No new version available
+[22:32:49] [Server thread/INFO]: [Magic] Essentials found, hooked up custom item handler
+[22:32:50] [Server thread/INFO]: [Magic] Loading image map data from imagemaps.yml
+[22:32:50] [Server thread/INFO]: [Magic] Loaded 0 image maps
+[22:32:50] [Server thread/INFO]: [Magic] Finished loading data.
+[22:32:50] [Server thread/WARN]: [ChestSort] =================================================
+[22:32:50] [Server thread/WARN]: [ChestSort] There is a new version of ChestSort available!
+[22:32:50] [Server thread/WARN]: [ChestSort] Latest : 8.17.7
+[22:32:50] [Server thread/WARN]: [ChestSort] Current: 8.17.3
+[22:32:50] [Server thread/WARN]: [ChestSort] Please update to the newest version. Download:
+[22:32:50] [Server thread/WARN]: [ChestSort] https://chestsort.de
+[22:32:50] [Server thread/WARN]: [ChestSort] =================================================
+[22:32:51] [Server thread/INFO]: [Graves] Loaded saved graves!
+[22:35:03] [Server thread/INFO]: Stopping the server
+[22:35:03] [Server thread/INFO]: Stopping server
+[22:35:03] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.0.113
+[22:35:03] [Server thread/INFO]: [ExoticGarden] Disabling ExoticGarden vDEV - 60 (git 2595001e)
+[22:35:03] [Server thread/INFO]: [Jobs] Disabling Jobs v4.16.0
+[22:35:03] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
+[22:35:03] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
+[22:35:03] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled successfully.[m
+[22:35:03] [Server thread/INFO]: [MoreFish] Disabling MoreFish v3.0.2
+[22:35:03] [Server thread/INFO]: [MoreFish] Plugin has been disabled.
+[22:35:03] [Server thread/INFO]: [Slimefun] Disabling Slimefun vRC - 17 (git e8a90f05)
+[22:35:03] [Server thread/INFO]: [Slimefun] Backed up Slimefun data to: 2020-11-04-22-35.zip
+[22:35:03] [Server thread/INFO]: [PlayerParticles] Disabling PlayerParticles v7.15
+[22:35:03] [Server thread/INFO]: [AutoPlant] Disabling AutoPlant v4.2
+[22:35:03] [Server thread/INFO]: The plugin is shutting down...
+[22:35:03] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.143
+[22:35:03] [Server thread/INFO]: [WG-GUI] Disabling WG-GUI v1.5.3
+[22:35:03] [Server thread/INFO]: [0;36;22m[0;36;22m[21m[WG-GUI] [0;37;1mDisabling WG-GUI version 1.5.3[m
+[22:35:03] [Server thread/INFO]: [Magic] Disabling Magic v7.10.7-966be29
+[22:35:03] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.3.1
+[22:35:03] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.18.0.0
+[22:35:03] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.18.0.0
+[22:35:03] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.18.0.0
+[22:35:03] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.18.0.0
+[22:35:03] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v4.9.1-3295
+[22:35:03] [Server thread/INFO]: [MythicMobs] Disabling Mythic Mobs...[0m
+[22:35:03] [Server thread/INFO]: [MythicMobs] All active settings have been saved.[0m
+[22:35:03] [Server thread/INFO]: [MythicMobs] v4.9.1-3295 has been Disabled![0m
+[22:35:03] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.3;5407315
+[22:35:03] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:35:03] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.18.0.0
+[22:35:03] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v6.2.0
+[22:35:03] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
+[22:35:03] [Server thread/INFO]: [AdvancedChests] Disabling AdvancedChests v7.1
+[22:35:03] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v2.2.0
+[22:35:03] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.43.1
+[22:35:03] [Server thread/INFO]: **************************************
+[22:35:03] [Server thread/INFO]: SinglePlayerSleep v1.13_2.13.43.1 is DISABLED
+[22:35:03] [Server thread/INFO]: **************************************
+[22:35:03] [Server thread/INFO]: [ChatControl] Disabling ChatControl v5.9.0
+[22:35:03] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.0.0
+[22:35:03] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:35:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-04+98f71a3
+[22:35:03] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:35:03] [Server thread/INFO]: [PetMaster] Disabling PetMaster v1.11.0
+[22:35:03] [Server thread/INFO]: [PetMaster] PetMaster has been disabled.
+[22:35:03] [Server thread/INFO]: [Graves] Disabling Graves v3.6
+[22:35:03] [Server thread/INFO]: [ChestSort] Disabling ChestSort v8.17.3
+[22:35:03] [Server thread/INFO]: [UltraCosmetics] Disabling UltraCosmetics v2.5.9
+[22:35:03] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v1.6.3
+[22:35:03] [Server thread/INFO]: [Farmer] Disabling Farmer v1.0.2
+[22:35:03] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:35:03] [Server thread/INFO]: [ServerMinimap] Disabling ServerMinimap v0.7.22
+[22:35:03] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib vDEV - 90 (git 9dd4a1cf)
+[22:35:03] [Server thread/INFO]: [Crafting+] Disabling CraftingPlus v1.2.3.0
+[22:35:03] [Server thread/INFO]: [Crafting+] ---------------
+[22:35:03] [Server thread/INFO]: [Crafting+] |  Disabled!  |
+[22:35:03] [Server thread/INFO]: [Crafting+] |  Crafting+  |
+[22:35:03] [Server thread/INFO]: [Crafting+] |      by     |
+[22:35:03] [Server thread/INFO]: [Crafting+] | 00Herobrine |
+[22:35:03] [Server thread/INFO]: [Crafting+] ---------------
+[22:35:03] [Server thread/INFO]: [Climb] Disabling Climb v1.8
+[22:35:03] [Server thread/INFO]: [LangUtils] Disabling LangUtils v1.0-SNAPSHOT
+[22:35:03] [Server thread/INFO]: [Effect Library] Disabling EffectLib v6.2
+[22:35:03] [Server thread/INFO]: [SignEditor] Disabling SignEditor v1.4
+[22:35:03] [Server thread/INFO]: [Drycell] Disabling Drycell v1.0.5
+[22:35:03] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.3.19-Release
+[22:35:04] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown initiated...
+[22:35:04] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown completed.
+[22:35:05] [Thread-31/INFO]: [Minepacks] Start downloading update: 2.3.20-release
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 10% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 20% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 30% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 40% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 50% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 60% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 70% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 80% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 90% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Downloading update: 100% of 1.32 MiB
+[22:35:05] [Thread-31/INFO]: [Minepacks] Finished updating.
+[22:35:05] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[22:35:05] [Server thread/INFO]: [ChestCleaner] Disabling ChestCleaner v2.1.0
+[22:35:05] [Server thread/INFO]: [InventoryRollback] Disabling InventoryRollback v1.3.8
+[22:35:05] [Server thread/INFO]: [AdvancedPortals] Disabling AdvancedPortals v0.5.8
+[22:35:05] [Server thread/INFO]: [0;31;1mAdvanced portals are being disabled![m
+[22:35:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
+[22:35:05] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[22:35:05] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[22:35:05] [Server thread/INFO]: [WorldManager] Disabling WorldManager v1.0.7
+[22:35:05] [Server thread/INFO]: [SaplingsAutoReplant] Disabling SaplingsAutoReplant v1.3
+[22:35:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.93
+[22:35:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:35:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:35:06] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:35:06] [Server thread/INFO]: [NoMobGriefing] Disabling NoMobGriefing v2.5.1
+[22:35:06] [Server thread/INFO]: [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been disabled.***
+[22:35:06] [Server thread/INFO]: [FlyToggle] Disabling FlyToggle v1.7
+[22:35:06] [Server thread/INFO]: [SafeArea] Disabling SafeArea v1.2
+[22:35:06] [Server thread/INFO]: [AutoTool] Disabling AutoTool v1.1.1
+[22:35:06] [Server thread/INFO]: [Oh_the_dungeons_youll_go] Disabling Oh_the_dungeons_youll_go v6.5
+[22:35:06] [Server thread/WARN]: [Oh The Dungeons You'll Go] Plugin is disabled
+[22:35:06] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.9.0
+[22:35:06] [Server thread/INFO]: [ChestsPlusPlus] Disabling ChestsPlusPlus v2.2.1-Release
+[22:35:06] [Server thread/INFO]: [SmokingPipes] Disabling SmokingPipes v1.6.0
+[22:35:06] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.7
+[22:35:06] [Server thread/INFO]: [InvSort] Disabling InvSort v1.2.0
+[22:35:06] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.52
+[22:35:06] [Server thread/INFO]: Saving players
+[22:35:06] [Server thread/INFO]: Saving worlds
+[22:35:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:35:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:35:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:08] [Server thread/INFO]: Saving usercache.json

@@ -31,7 +31,7 @@ settings:
   sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
-  save-user-cache-on-stop-only: false
+  save-user-cache-on-stop-only: true
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   log-villager-deaths: true
@@ -116,7 +116,7 @@ world-settings:
       monsters: 32
       raiders: 48
       misc: 16
-      tick-inactive-villagers: true
+      tick-inactive-villagers: false
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
@@ -129,8 +129,8 @@ world-settings:
       sprint-multiplier: 0.1
       other-multiplier: 0.0
     max-tick-time:
-      tile: 50
-      entity: 50
+      tile: 1000
+      entity: 1000
     squid-spawn-range:
       min: 45.0
     entity-tracking-range:
